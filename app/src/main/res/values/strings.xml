@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Musikfinder</string>
+    <string name="tapb" />
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="reset">Reset</string>
+    <string name="genre">Pick your genre:</string>
+</resources>
